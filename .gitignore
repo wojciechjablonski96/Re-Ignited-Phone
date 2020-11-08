@@ -63,3 +63,7 @@ resources/gcphone/html
 
 gcphone.zip
 resources.zip
+
+# Phpstorm
+.idea
+/src_htmlPhone/node_modules/

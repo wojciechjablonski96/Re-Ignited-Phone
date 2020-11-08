@@ -63,3 +63,4 @@ resources / gcphone / html
 
 # ignore gcphone.zip
 gcphone.zip
+/node_modules/
